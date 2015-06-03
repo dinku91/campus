@@ -72,5 +72,5 @@ class UserFriendshipTest < ActiveSupport::TestCase
                 UserFriendship.request(users(:jason), users(:mike))
         end
          end
-       end
+     end
 end

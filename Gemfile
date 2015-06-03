@@ -15,6 +15,7 @@ gem 'state_machine'
 
 group :test do
     gem 'shoulda'
+    gem 'factory_girl_rails'
 end
 
 group :assets do
